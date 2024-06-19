@@ -31,8 +31,7 @@ A simple counter application built using HTML, CSS, and JavaScript. The applicat
 - `script.js` - The JavaScript file containing the logic for the counter functionality.
 
 ## Preview
-
-![Counter App]![image](https://github.com/Uttam1910/counter-app/assets/126397580/ffbee318-2ed9-4eb5-a9ab-1e9846cdba5e)
+Counter App[image](https://github.com/Uttam1910/counter-app/assets/126397580/ffbee318-2ed9-4eb5-a9ab-1e9846cdba5e)
 
 
 ## License
